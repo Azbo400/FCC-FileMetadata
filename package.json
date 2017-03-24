@@ -1,0 +1,25 @@
+{
+  "name": "fcc-file-metadata",
+  "version": "1.0.0",
+  "description": "This is my File Metadata Microservice for freeCodeCamp!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azbo400/FCC-FileMetadata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azbo400/FCC-FileMetadata/issues"
+  },
+  "homepage": "https://github.com/Azbo400/FCC-FileMetadata#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  }
+}
